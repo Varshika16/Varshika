@@ -8,5 +8,5 @@ Bash Terminal Option: MinTTY
 Performance Tweaks FSCache: Enabled
 Use Credential Manager: Enabled
 Enable Symlinks: Disabled
-Enable Builtin Rebase: Enabled
-Enable Builtin Stash: Enabled
+Enable Builtin Rebase: Disabled
+Enable Builtin Stash: Disabled
